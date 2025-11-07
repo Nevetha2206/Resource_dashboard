@@ -19,7 +19,7 @@ except ImportError:
 from io import BytesIO
 # ---------- CONFIG ----------
 # <-- Change this to your actual Excel file path -->
-EXCEL_PATH = r"C:\Users\2343748\OneDrive - Cognizant\Resource dashboard file\data_crit (1).xlsx"
+EXCEL_PATH = r"https://github.com/Nevetha2206/Resource_dashboard/blob/main/data_crit%20(1).xlsx"
 # Sheet name preferences
 EXPECTED_SHEETS = {
     "resources": ["ResourceRequirements", "resources", "resource_requirements", "resources_sheet"],
